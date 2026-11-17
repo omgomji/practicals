@@ -1,0 +1,11 @@
+jupyter nbconvert --to html Experiment_1_Word_Analysis.ipynb
+
+Briefly explain the NLP concept(s) used in this experiment (in chat only)
+
+Write the step-by-step procedure followed to complete the experiment. (minimal number of steps, on chat only)
+
+give me the problem statement you would derieve from this experiment (in chat only)
+
+give a brief explanation of every code cell (code cells only, in chat only)
+
+Result: Write one or two lines concluding whether the experiment was completed and verified successfully (in chat only)
